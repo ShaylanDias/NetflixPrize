@@ -1,0 +1,44 @@
+Ratings/Tests 1:
+******Results******
+Runtime: 0:5:518
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 10000
+Total difference between guessed and actual ratings: 7101.228845726688
+Average difference between guessed and actual ratings: 0.7101228845726688
+Root square mean difference between guessed and actual ratings: 0.9112006665399982
+
+Ratings/Tests 2:
+******Results******
+Runtime: 0:5:916
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 10000
+Total difference between guessed and actual ratings: 7052.070496134126
+Average difference between guessed and actual ratings: 0.7052070496134126
+Root square mean difference between guessed and actual ratings: 0.9094756563400997
+
+Ratings/Tests 3:
+******Results******
+Runtime: 0:5:678
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 10000
+Total difference between guessed and actual ratings: 7091.6818803674505
+Average difference between guessed and actual ratings: 0.7091681880367451
+Root square mean difference between guessed and actual ratings: 0.9195025316874536
+
+Ratings/Tests 4:
+******Results******
+Runtime: 0:5:334
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 10000
+Total difference between guessed and actual ratings: 7025.744098099273
+Average difference between guessed and actual ratings: 0.7025744098099274
+Root square mean difference between guessed and actual ratings: 0.9057062592622862
+
+Ratings/Tests 5:
+******Results******
+Runtime: 0:5:672
+Test combinations already present in dataset: 0
+Test combinations not present (rating guessed): 10000
+Total difference between guessed and actual ratings: 7110.895175061476
+Average difference between guessed and actual ratings: 0.7110895175061476
+Root square mean difference between guessed and actual ratings: 0.9200289047746164
